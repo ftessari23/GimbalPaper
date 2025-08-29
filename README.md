@@ -1,4 +1,4 @@
-# Gimbal Paper
+# Gimbal Device
 
 This repository contains the design files and assembly details for the **Gimbal apparatus** used in our recent publication. The device was developed to study human wrist rotations in both **kinematics** and **dynamics** experiments.  
 
